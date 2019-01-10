@@ -49,7 +49,7 @@
   
   embedd       ;; EMBEDDING. Values: perception_embedding, cognitive_embedding, other.
   
-  assim        ;; IGNORE. NOT USED IN FINAL WORK
+  assim        ;; PRESENT_REFERENCE. Values: nil (= false), t (= true)
   
   lextype      ;; LEXICAL_TYPE. Values adjective, tv (= transitive verb),
                ;; iv (= intransitive verb)
